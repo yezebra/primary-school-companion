@@ -1,0 +1,25 @@
+{
+  "edition": "renjiao",
+  "subject": "english",
+  "note": "人教版 PEP 小学英语，多数学校从三年级起开设；1~2 年级为 null 表示通常未开课",
+  "grades": {
+    "1": { "上": null, "下": null },
+    "2": { "上": null, "下": null },
+    "3": {
+      "上": ["Unit 1 Hello", "Unit 2 Colours", "Unit 3 Look at me", "Recycle 1", "Unit 4 We love animals", "Unit 5 Let's eat", "Unit 6 Happy birthday"],
+      "下": ["Unit 1 Welcome back to school", "Unit 2 My family", "Unit 3 At the zoo", "Recycle 1", "Unit 4 Where is my car", "Unit 5 Do you like pears", "Unit 6 How many"]
+    },
+    "4": {
+      "上": ["Unit 1 My classroom", "Unit 2 My schoolbag", "Unit 3 My friends", "Recycle 1", "Unit 4 My home", "Unit 5 Dinner's ready", "Unit 6 Meet my family"],
+      "下": ["Unit 1 My school", "Unit 2 What time is it", "Unit 3 Weather", "Recycle 1", "Unit 4 At the farm", "Unit 5 My clothes", "Unit 6 Shopping"]
+    },
+    "5": {
+      "上": ["Unit 1 What's he like", "Unit 2 My week", "Unit 3 What would you like", "Recycle 1", "Unit 4 What can you do", "Unit 5 There is a big bed", "Unit 6 In a nature park"],
+      "下": ["Unit 1 My day", "Unit 2 My favourite season", "Unit 3 My school calendar", "Recycle 1", "Unit 4 When is the art show", "Unit 5 Whose dog is it", "Unit 6 Work quietly"]
+    },
+    "6": {
+      "上": ["Unit 1 How can I get there", "Unit 2 Ways to go to school", "Unit 3 My weekend plan", "Recycle 1", "Unit 4 I have a pen pal", "Unit 5 What does he do", "Unit 6 How do you feel"],
+      "下": ["Unit 1 How tall are you", "Unit 2 Last weekend", "Unit 3 Where did you go", "Recycle", "Unit 4 Then and now"]
+    }
+  }
+}
