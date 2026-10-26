@@ -1,0 +1,21 @@
+{
+  "note": "城市 → 教材版本与学期时间；实际以学校为准，这里给默认值",
+  "defaults": {
+    "edition": "renjiao",
+    "termStartAutumn": "09-01",
+    "termStartSpring": "02-20",
+    "englishStartGrade": 3
+  },
+  "cities": {
+    "武汉": { "edition": "renjiao", "englishStartGrade": 3 },
+    "北京": { "edition": "renjiao", "englishStartGrade": 1, "note": "部分区用北京版数学/英语" },
+    "上海": { "edition": "renjiao", "englishStartGrade": 1, "note": "上海多用沪教版，待补充" },
+    "广州": { "edition": "renjiao", "englishStartGrade": 1 },
+    "深圳": { "edition": "renjiao", "englishStartGrade": 1 },
+    "成都": { "edition": "renjiao", "englishStartGrade": 3 },
+    "杭州": { "edition": "renjiao", "englishStartGrade": 3 },
+    "南京": { "edition": "renjiao", "englishStartGrade": 3 },
+    "西安": { "edition": "renjiao", "englishStartGrade": 3 },
+    "重庆": { "edition": "renjiao", "englishStartGrade": 3 }
+  }
+}
